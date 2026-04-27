@@ -72,3 +72,14 @@ GitHub이 처음이세요? → [`saenoyangi-handbook/GITHUB-GUIDE.md`](https://g
 <div align="center">
   <sub>첫 쥐돌이를 부끄러워하지 않는다 · <strong>냐-옹.</strong></sub>
 </div>
+---
+
+## 🧭 자경단 문서 지도
+
+모든 자경단 문서 한눈에: [`.github/DOCS-MAP.md`](https://github.com/catguard-team/.github/blob/main/DOCS-MAP.md)
+
+관련 레포:
+- 🐭 이 레포 (`jwidori`) — 첫 쥐돌이 갤러리
+- 🐾 [`saenoyangi-handbook`](https://github.com/catguard-team/saenoyangi-handbook) — 뚹시구 단계별 학습 가이드
+- 🍯 [`kkulzam-spot`](https://github.com/catguard-team/kkulzam-spot) — 사냥 중 막힌 때 꿀팁
+- 📜 [`manifesto`](https://github.com/catguard-team/manifesto) — SAFETY · LEAK_CLEANUP 필수
